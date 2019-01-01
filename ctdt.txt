@@ -1,0 +1,5 @@
+IT3210    C Lab                         2    0       
+IT3312    DSA                           2    1    IT3210
+IT3292    Database                      2    1    IT3312  
+IT3012E   OOP                           3    0
+IT4552E   Web programming               2    2    IT3012E IT3292E
